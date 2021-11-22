@@ -1,1 +1,1 @@
-6.1.0.0|Changelog:{0}{0}[+] Subtitle only setting{0}[+] Test
+6.1.0.0|Changelog:{0}{0}[+] Subtitle only setting{0}[+] Clear transcript button{0}{0}[*] Only enable when vital settings are set{0}[*] Changed version/changelog check to github
