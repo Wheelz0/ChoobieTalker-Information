@@ -9,6 +9,7 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 - [x] Changelog check
 
 ## Next update - 6.2.0.0
+- [ ] Add outline font option
 - [ ] Save transcript
 - [ ] Fix client stop error when never connected
 
