@@ -1,19 +1,14 @@
 # ChoobieTalker
 A SST-TTS / Subtitle setup for vTuber live streams.
 
-# To do - 6.1.0.0
-- [x] Subtitle only 
-- [x] Clear transcript
-- [x] Only enable when vital settings are set
-- [x] Change version check and changelog to github
-- [x] Changelog check
-
-## Next update - 6.2.0.0
+# To do - 6.2.0.0
 - [ ] Add outline font option
 - [ ] Save transcript
 - [ ] Fix client stop error when never connected
 - [ ] Fix crash when IP wrong
-- [ ] Fix crash when settings arent set (KromiaLink)
+- [x] Fix crash when settings arent set (KromiaLink)
+
+## Next update - 6.3.0.0
 
 ## Future updates
 - [ ] More audio effects?
