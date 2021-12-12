@@ -9,6 +9,7 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 - [x] Fix crash when settings arent set (KromiaLink)
 
 ## Next update - 6.3.0.0
+- [ ] Closing stops the TTS
 
 ## Future updates
 - [ ] More audio effects?
