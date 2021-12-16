@@ -6,6 +6,7 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 - [ ] Fix client stop error when never connected
 - [ ] Fix crash when IP wrong
 - [x] Fix crash when settings arent set (KromiaLink)
+- [ ] Enter key to send TTS manual
 
 ## Next update - 6.3.0.0
 - [ ] Closing doesn't stop the TTS
