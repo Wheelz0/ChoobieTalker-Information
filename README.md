@@ -8,6 +8,9 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 - [ ] Closing doesn't stop the TTS
 - [ ] Save transcript
 
+## Future update - 6.4.0.0
+- [ ] Azure translation implementation (maybe)
+
 ## Future updates
 - [ ] More audio effects?
 - [ ] Account system
