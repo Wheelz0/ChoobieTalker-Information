@@ -1,1 +1,1 @@
-6.2.1.0|Changelog:{0}{0}[*] Fixed outline subtitles not wrapping or centering{0}[*] Fixed low quality subtitles from outline text
+6.2.1.0|Changelog:{0}{0}[*] Fixed outline subtitles not wrapping or centering{0}[*] Fixed low quality subtitles from outline text{0}[*] Fixed manual speak running with invalid settings
