@@ -1,1 +1,1 @@
-6.2.0.0|Changelog:{0}{0}[+] Outline subtitles{0}[+] Enter sends in manual TTS{0}{0}[*] Fix client crash with stop button{0}[*] Fixed crash when link settings arent set{0}[*] Fixed crash with invalid ip set in link{0}[*] Bug fixes in manual TTS
+6.2.1.0|Changelog:{0}{0}[*] Fixed outline subtitles not wrapping or centering{0}[*] Fixed low quality subtitles from outline text
