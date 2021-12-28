@@ -2,7 +2,7 @@
 A SST-TTS / Subtitle setup for vTuber live streams.
 
 # To do - 6.2.1.0
-- [ ] Subtitles won't go to next line
+- [x] Subtitles won't go to next line
 
 ## Next update - 6.3.0.0
 - [ ] Closing doesn't stop the TTS
