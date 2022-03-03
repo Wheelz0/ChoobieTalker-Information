@@ -7,6 +7,8 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 ## Next update - 6.3.0.0
 - [ ] Closing doesn't stop the TTS
 - [ ] Save transcript
+- [ ] OSC implementation
+- [ ] VR Controls
 
 ## Future update - 6.4.0.0
 - [ ] Azure translation implementation (maybe)
