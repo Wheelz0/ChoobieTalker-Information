@@ -16,6 +16,7 @@ A SST-TTS / Subtitle setup for vTuber live streams.
 - [ ] Azure translation implementation (maybe)
 
 ## Future updates
+- [ ] Implement subtitle timeout for end of speech
 - [ ] More audio effects?
 - [ ] Account system
 - [ ] Twitch integration?
